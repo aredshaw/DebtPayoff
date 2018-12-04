@@ -35,7 +35,7 @@ Download the program from the link below. Then double click the downloaded DebtP
 Enjoy!
 
 <p align=center>
-<a href="/DebtPayoff_files/DebtPayoff.jar">
+<a href="https://sourceforge.net/projects/debtpayoff/files/DebtPayoff/DebtPayoff-1.2.1/DebtPayoff.jar/download">
 <img src="/images/Download.png">
 </a>
 </p>
