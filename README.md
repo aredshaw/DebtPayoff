@@ -14,7 +14,7 @@ Years ago I needed to know how long it would take me to pay off my credit card t
 * Runs on any hardware (written in Java)
 
 <p align="center">
-![DebtPayoff In action](/images/Screenshot1.png)
+<img src="/images/Screenshot1.png">
 </p>
 
 #### To copy and paste all of the output context (Windows & Linux)
