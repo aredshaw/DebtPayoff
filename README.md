@@ -28,7 +28,7 @@ Years ago I needed to know how long it would take me to pay off my credit card a
 * Command-C (Copy)
 * Command-V (Paste)
 
-My hope is that by seeing how much you save by paying an extra $10 or $20 per month, you will be greatly encouraged to pay the debt off that much faster. This application was written in 100% Java, so you will need to download sun's [Jave Runtime Environment(JRE)](https://www.java.com/en/download/) for it to work.
+My hope is that by seeing how much you save by paying an extra $10 or $20 per month, you will be greatly encouraged to pay the debt off that much faster. This application was written in 100% Java, so you will need to download Sun's [Jave Runtime Environment(JRE)](https://www.java.com/en/download/) for it to work.
 
 Download the program from the link below. I will redirect you to the file at Sourceforge. Double click the downloaded DebtPayoff.jar file and that's it.
 
