@@ -15,7 +15,7 @@ Years ago I needed to know how long it would take me to pay off my credit card a
 * Runs on any hardware (written in Java)
 
 <p align="center">
-<img src="/images/Screenshot1.png">
+<img src="images/Screenshot1.png">
 </p>
 
 #### To copy and paste to another application (Windows & Linux)
@@ -36,6 +36,6 @@ Enjoy!
 
 <p align=center>
 <a href="https://sourceforge.net/projects/debtpayoff/files/DebtPayoff/DebtPayoff-1.2.1/DebtPayoff.jar/download">
-<img src="/images/Download.png">
+<img src="images/Download.png">
 </a>
 </p>
