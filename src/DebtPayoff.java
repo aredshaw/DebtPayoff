@@ -38,8 +38,7 @@ public class DebtPayoff {
         // TODO code application logic here
 	DebtPayoffFrame frame = new DebtPayoffFrame();
 	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	frame.show();
-    
+	frame.setVisible(true);
     }
     
 }
