@@ -137,3 +137,15 @@ Photoshop
 Note-Convert this using Sphinx, but later refer to this source code to show RST skills and Sphinx
 -------------------------------------------------------------------------------------------------
 
+Postman
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+SCP
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Sigil
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Vi
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+WinSCP
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+WordPress
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_a
