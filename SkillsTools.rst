@@ -122,8 +122,8 @@ Microsoft Word
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 NetBeans
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
-Notepad
-  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Notepad++
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, This page. Here is the original `reStructuredText <http://aaronkredshaw.com/Sphinx/index.rst>`_
 PDFill Free PDF Tools
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Photoshop
