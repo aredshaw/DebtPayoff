@@ -115,3 +115,7 @@ Google Sheets
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 JDK (Java Development Kit)
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Kindle Previewer
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Linux
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
