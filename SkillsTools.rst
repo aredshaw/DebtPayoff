@@ -76,6 +76,26 @@ XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 -----
 
+Tools
+-----
+
+Adobe Acrobat
+  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Audacity
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+CMS (Content Management System)
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+Command Line Tools
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Curl
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+FrameMaker
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
+FTP
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+GIMP
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+
 `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
 `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
@@ -83,3 +103,4 @@ XML
 `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 `White Paper <http://aaronkredshaw.com/white-paper/>`_
+
