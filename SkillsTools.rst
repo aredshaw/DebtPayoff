@@ -133,3 +133,7 @@ PDFill Free PDF Tools
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Photoshop
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
+
+Note-Convert this using Sphinx, but later refer to this source code to show RST skills and Sphinx
+-------------------------------------------------------------------------------------------------
+
