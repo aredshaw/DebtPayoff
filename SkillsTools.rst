@@ -30,11 +30,16 @@ Grasping Complex Topics
   `White Paper <http://aaronkredshaw.com/white-paper/>`_
 HTML
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
-Docs as Code
-  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
-
-
-(Subject Matter Experts)
+Interviewing SMEs (Subject Matter Experts)
   `White Paper <http://aaronkredshaw.com/white-paper/>`_
+JavaScript
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+JSON (JavaScript Object Notation)
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+Markdown
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Photo Editing
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+Programming in Java
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
   
-
