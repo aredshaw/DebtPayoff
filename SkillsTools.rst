@@ -69,3 +69,13 @@ Software Documentation
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 Software Version Control (Including Documentation)
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, This Page
+Structured Authoring
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+Technical Support Experience
+  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
+Technical Writing Process
+  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+Topic Based Authoring
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+Web Development
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_
