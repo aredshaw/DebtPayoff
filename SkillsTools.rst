@@ -99,7 +99,7 @@ GIMP
 Git
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>1_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 GitHub
-  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 Google Docs
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Google Sheets
