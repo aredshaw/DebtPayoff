@@ -76,7 +76,7 @@ Writing Technical Information for a Non-Technical Audience
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_`DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_`DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
-  
+-----
 
 `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
