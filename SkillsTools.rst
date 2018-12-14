@@ -54,3 +54,9 @@ Revision according to Feedback
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Screenshots
   `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Portfolio Website <https://aaronkredshaw.com>`_
+Single Source Publishing
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+Software Documentation
+  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
+Software Version Control (Including Documentation)
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, This Page
