@@ -116,15 +116,6 @@ Microsoft PowerPoint
   `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 Microsoft Word
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
-
-`A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
-`API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
-`Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
-`DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
-`DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
-`Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
-`White Paper <http://aaronkredshaw.com/white-paper/>`_
-
 NetBeans
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Notepad
@@ -148,4 +139,4 @@ Vi
 WinSCP
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 WordPress
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_a
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_
