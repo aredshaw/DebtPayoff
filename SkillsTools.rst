@@ -100,7 +100,6 @@ Git
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 GitHub
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
-GitHub
 Google Docs
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Google Sheets
@@ -126,3 +125,11 @@ Microsoft Word
 `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 `White Paper <http://aaronkredshaw.com/white-paper/>`_
 
+NetBeans
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+Notepad
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+PDFill Free PDF Tools
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Photoshop
+  `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
