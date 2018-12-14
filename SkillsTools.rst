@@ -97,7 +97,7 @@ GIMP
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 
 Git
-  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>1_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 GitHub
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, 'Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 Google Docs
