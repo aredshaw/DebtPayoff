@@ -8,4 +8,6 @@ Skills
 
 API Integration 
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
- 
+Audio Production
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+
