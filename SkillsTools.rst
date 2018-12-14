@@ -38,7 +38,7 @@ JavaScript
 JSON (JavaScript Object Notation)
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
 Markdown
-  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Wiki <https://github.com/aredshaw/DebtPayoff/wiki>`_
 Photo Editing
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Programming in Java
