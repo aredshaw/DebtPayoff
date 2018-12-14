@@ -4,6 +4,9 @@ Find samples of work by skill or tool used
 Skills
 ------
 
+Note-Convert this using Sphinx, but later refer to this source code to show RST skills and Sphinx
+-------------------------------------------------------------------------------------------------
+
 API Integration 
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
 Audio Production
@@ -124,10 +127,6 @@ PDFill Free PDF Tools
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Photoshop
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
-
-Note-Convert this using Sphinx, but later refer to this source code to show RST skills and Sphinx
--------------------------------------------------------------------------------------------------
-
 Postman
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
 SCP
