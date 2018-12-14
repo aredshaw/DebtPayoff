@@ -50,3 +50,7 @@ Reading Articles by SMEs (Subject Matter Experts)
   `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 Research
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Revision according to Feedback
+  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Screenshots
+  `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Portfolio Website <https://aaronkredshaw.com>`_
