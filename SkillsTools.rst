@@ -4,8 +4,8 @@ Find samples of work by skill or tool used
 Skills
 ------
 
-Note: Convert this using Sphinx
--------------------------------
+**Note: Written in reStructuredText and converted to HTML using Sphinx**
+
 
 API Integration 
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
@@ -51,6 +51,8 @@ Reading Articles by SMEs (Subject Matter Experts)
   `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 Research
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+reStructuredText
+  This document, later converted to HTML using Sphinx. See `Original rst document <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_, Also see `Code here <http://aaronkredshaw.com/Sphinx/index.rst>`_
 Revision according to Feedback
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Screenshots
@@ -89,7 +91,7 @@ Audacity
 CMS (Content Management System)
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Command Line Tools
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, This document using Sphinx
 Curl
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
 FrameMaker
@@ -98,7 +100,6 @@ FTP
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 GIMP
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
-
 Git
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Other GitHub Projects <https://github.com/aredshaw>`_, This Page
 GitHub
@@ -133,6 +134,8 @@ SCP
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Sigil
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Sphinx
+  This document, first written `here <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_, Also see the `Code here <http://aaronkredshaw.com/Sphinx/index.rst>`_
 Vi
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 WinSCP
