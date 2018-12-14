@@ -4,8 +4,8 @@ Find samples of work by skill or tool used
 Skills
 ------
 
-Note-Convert this using Sphinx, but later refer to this source code to show RST skills and Sphinx
--------------------------------------------------------------------------------------------------
+Note: Convert this using Sphinx
+-------------------------------
 
 API Integration 
   `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
