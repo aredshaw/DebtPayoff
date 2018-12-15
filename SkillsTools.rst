@@ -82,7 +82,7 @@ XML
 -----
 
 .. _Tools:
-Tools (See Skills_)
+Tools
 -----
 
 Adobe Acrobat
