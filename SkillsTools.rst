@@ -1,6 +1,6 @@
 Find samples of work by skill or tool used
 ==========================================
-
+.. _Skills:
 Skills (see Tools_)
 ------
 
@@ -83,7 +83,7 @@ XML
 
 .. _Tools:
 
-Tools
+Tools (See Skills_)
 -----
 
 Adobe Acrobat
