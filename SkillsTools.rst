@@ -1,8 +1,10 @@
-Find samples of work by skill or tool used
-==========================================
+Find samples of my work by skill or tool used `(Back to Portfolio) <https://aaronkredshaw.com>`_
+================================================================================================
+
+.. _Skills:
 
 Skills (skip to Tools_)
-------
+-----------------------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
 
@@ -79,11 +81,13 @@ Writing Technical Information for a Non-Technical Audience
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_ , `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_ , `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
+  
 -----
 
 .. _Tools:
-Tools
------
+
+Tools (skip to Skills_)
+-----------------------
 
 Adobe Acrobat
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
