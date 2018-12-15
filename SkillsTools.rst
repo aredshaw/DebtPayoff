@@ -82,6 +82,8 @@ XML
 -----
 
 .. _Tools:
+
+Tools
 -----
 
 Adobe Acrobat
