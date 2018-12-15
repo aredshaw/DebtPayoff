@@ -81,7 +81,7 @@ XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 -----
 
-_Tools
+.._Tools:
 -----
 
 Adobe Acrobat
