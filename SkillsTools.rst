@@ -52,7 +52,7 @@ Reading Articles by SMEs (Subject Matter Experts)
 Research
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 reStructuredText
-  This document, later converted to HTML using Sphinx. See `original RST document <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_. Also my `code here <http://aaronkredshaw.com/Sphinx/index.rst>`_
+  This document, later converted to HTML using Sphinx. See `original RST document <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_. Also my `code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 Revision according to Feedback
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Screenshots
