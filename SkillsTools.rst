@@ -1,7 +1,7 @@
 Find samples of work by skill or tool used
 ==========================================
 
-Skills (see Tools_)
+Skills (skip to Tools_)
 ------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
