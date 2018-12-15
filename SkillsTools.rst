@@ -1,7 +1,7 @@
 Find samples of work by skill or tool used
 ==========================================
 
-Skills
+Skills (see Tools_)
 ------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
@@ -81,7 +81,7 @@ XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 -----
 
-Tools
+_Tools
 -----
 
 Adobe Acrobat
