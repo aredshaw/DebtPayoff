@@ -123,7 +123,7 @@ Microsoft Word
 NetBeans
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Notepad++
-  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, This page. Here is the original `reStructuredText <http://aaronkredshaw.com/Sphinx/index.rst>`_
+  `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_. This page written in reStructuredText. See the code `here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 PDFill Free PDF Tools
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Photoshop
@@ -135,7 +135,7 @@ SCP
 Sigil
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Sphinx
-  This document, first written `here <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_. Also see the `RST code here <http://aaronkredshaw.com/Sphinx/index.rst>`_
+  This document, first written `here <https://github.com/aredshaw/DebtPayoff/edit/master/SkillsTools.rst>`_. Also see the `RST code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 Vi
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 WinSCP
