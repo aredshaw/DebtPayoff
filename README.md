@@ -1,5 +1,5 @@
 # DebtPayoff
-A tool to help you get out of debt faster
+This tool calculates compound interest and shows you when you will be out of debt at the current rate of interest and payment schedule. Play around with the numbers to see how you can get out of debt faster.
 
 ## Why I Wrote It
 
