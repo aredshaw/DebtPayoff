@@ -37,7 +37,7 @@ Download the program from the link below. I will redirect you to the file at Sou
 Enjoy!
 
 <p align=center>
-<a href="https://sourceforge.net/projects/debtpayoff/files/DebtPayoff/DebtPayoff-1.2.1/DebtPayoff.jar/download">
+<a href="https://sourceforge.net/projects/debtpayoff/files/DebtPayoff/DebtPayoff-1.3.1/DebtPayoff.jar/download">
 <img src="images/Download.png">
 </a>
 </p>
