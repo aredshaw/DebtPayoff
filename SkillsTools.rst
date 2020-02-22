@@ -2,7 +2,7 @@ Find samples of work by skill or tool used
 ==========================================
 .. _Skills:
 Skills (skip to Tools_)
-------
+-----------------------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
 
@@ -83,7 +83,7 @@ XML
 
 .. _Tools:
 Tools (back to Skills_)
------
+-----------------------
 
 Adobe Acrobat
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
