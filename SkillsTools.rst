@@ -140,7 +140,7 @@ Sigil
 Sphinx
   This document, first written `here <https://github.com/aredshaw/DebtPayoff/blob/master/SkillsTools.rst>`_. Also see the `RST code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 Static Site Generators
- `An example page <https://aredshaw.github.io/>`_ I created using Hugu and uploaded to GitHub.
+ `An example page <https://aredshaw.github.io/>`_ I created using Hugo and uploaded to GitHub.
 Vi
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 WinSCP
