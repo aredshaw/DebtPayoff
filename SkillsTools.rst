@@ -1,6 +1,7 @@
 Find samples of work by skill or tool used
 ==========================================
 .. _Skills:
+
 Skills (skip to Tools_)
 -----------------------
 
@@ -79,9 +80,9 @@ Writing Technical Information for a Non-Technical Audience
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_ , `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_ , `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
------
 
 .. _Tools:
+
 Tools (back to Skills_)
 -----------------------
 
