@@ -18,7 +18,7 @@ Collaboration
 Computer Hardware
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Cover Art Creation
-  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_    
+  `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_  
 CSS (Cascading Style Sheets)
   `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 DITA (Darwin Information Typing Architecture)
@@ -54,7 +54,7 @@ Research
 reStructuredText
   This document, later converted to HTML using Sphinx. See `original RST document <https://github.com/aredshaw/DebtPayoff/blob/master/SkillsTools.rst>`_. Also my `code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 Revision according to Feedback
-  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_.
 Screenshots
   `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Portfolio Website <https://aaronkredshaw.com>`_
 Single Source Publishing
@@ -109,6 +109,8 @@ Google Docs
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Google Sheets
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
+Hugo (a popular static site generator)
+  `My Hugo Site <https://aredshaw.github.io/>`_
 JDK (Java Development Kit)
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Kindle Previewer
@@ -137,6 +139,8 @@ Sigil
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Sphinx
   This document, first written `here <https://github.com/aredshaw/DebtPayoff/blob/master/SkillsTools.rst>`_. Also see the `RST code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
+Static Site Generators
+ `This page <https://aredshaw.github.io/>`_ was created in Hugu and uploaded to GitHub.
 Vi
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 WinSCP
