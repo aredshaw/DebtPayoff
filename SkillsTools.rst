@@ -1,7 +1,7 @@
 Find samples of work by skill or tool used
 ==========================================
-
-Skills (skip to Tools_)
+.. _Skills:
+Skills (skip to `tools`_)
 ------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
@@ -82,7 +82,7 @@ XML
 -----
 
 .. _Tools:
-Tools
+Tools (back to `Skills`_)
 -----
 
 Adobe Acrobat
