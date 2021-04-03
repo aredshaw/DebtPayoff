@@ -1,15 +1,14 @@
 Find samples of work by skill or tool used
 ==========================================
-.. _Skills:
 
 Skills (skip to Tools_)
------------------------
+------
 
 **Note: Written in reStructuredText and converted to HTML using Sphinx**
 
 
 API Integration 
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 Audio Production
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Book Formatting
@@ -31,13 +30,13 @@ Explaination Step-by-Step
 Grasping Complex Topics
   `White Paper <http://aaronkredshaw.com/white-paper/>`_
 HTML
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Interviewing SMEs (Subject Matter Experts)
   `White Paper <http://aaronkredshaw.com/white-paper/>`_
 JavaScript
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 JSON (JavaScript Object Notation)
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 Markdown
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `Wiki <https://github.com/aredshaw/DebtPayoff/wiki>`_
 Photo Editing
@@ -57,7 +56,7 @@ reStructuredText
 Revision according to Feedback
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_.
 Screenshots
-  `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Portfolio Website <https://aaronkredshaw.com>`_
+  `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Website <https://aaronkredshaw.com/portfolio/>`_
 Single Source Publishing
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Software Documentation
@@ -69,33 +68,33 @@ Structured Authoring
 Technical Support Experience
   `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 Technical Writing Process
-  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 Topic Based Authoring
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Web Development
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Website <https://aaronkredshaw.com>`_
 Web Hosting Tools
-  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `My Portfolio <https://aaronkredshaw.com>`_
+  `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_, `My Website <https://aaronkredshaw.com>`_
 Writing Technical Information for a Non-Technical Audience
-  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_ , `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_ , `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
+  `White Paper <http://aaronkredshaw.com/white-paper/>`_, `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_ , `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_ , `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 XML
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
+-----
 
 .. _Tools:
-
-Tools (back to Skills_)
------------------------
+Tools
+-----
 
 Adobe Acrobat
   `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 Audacity
   `Books I've Published <http://aaronkredshaw.com/books-ive-published/>`_
 CMS (Content Management System)
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 Command Line Tools
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, This document using Sphinx
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_, This document using Sphinx
 Curl
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 FrameMaker
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `Proposal for Unifi Software <http://aaronkredshaw.com/proposal-for-unifi-software/>`_
 FTP
@@ -133,7 +132,7 @@ PDFill Free PDF Tools
 Photoshop
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_, `White Paper <http://aaronkredshaw.com/white-paper/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_
 Postman
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_
 SCP
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 Sigil
@@ -141,10 +140,10 @@ Sigil
 Sphinx
   This document, first written `here <https://github.com/aredshaw/DebtPayoff/blob/master/SkillsTools.rst>`_. Also see the `RST code here <http://aaronkredshaw.com/Sphinx/index.rst>`_.
 Static Site Generators
- `An example page <https://aredshaw.github.io/>`_ I created using Hugo and uploaded to GitHub. Another is Sphinx (see above).
+ `An example page <https://aredshaw.github.io/>`_ I created using Hugo and uploaded to GitHub.
 Vi
   `DebtPayoff <http://aaronkredshaw.com/debtpayoff/>`_
 WinSCP
   `DITA & FrameMaker <https://aaronkredshaw.com/dita_framemaker_tutorial/>`_
 WordPress
-  `API Tutorial <https://aaronkredshaw.com/api-tutorials/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Portfolio <https://aaronkredshaw.com>`_
+  `API Tutorial <https://aaronkredshaw.com/api-practice/>`_, `A Self-Publishing Guide <http://aaronkredshaw.com/portfolio/a-self-publishing-guide/>`_, `My Website <https://aaronkredshaw.com>`_
